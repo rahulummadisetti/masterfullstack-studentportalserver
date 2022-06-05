@@ -1,0 +1,6 @@
+{
+    "authenticationSecret":"rahulnodejs",
+    "tokenExpireInTime": 600000,
+    "MONGODB_URL":"mongodb+srv://rahul:17051990@cluster0.ybgya.mongodb.net/studentportal?retryWrites=true&w=majority",
+    "port":3000
+}
